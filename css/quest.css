@@ -1,0 +1,20 @@
+body, html, * {
+    background-color: black !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+
+.ps_grid-row * {
+    background-color: white !important;
+    color: red !important;
+}
+
+.ps_pspagecontainer_side_md * {
+    background-color: white !important;
+    color: red !important;
+}
+
+.table * {
+    background-color: black !important;
+    color: white !important;
+}
