@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Waterloo Extension for Change",
+    "version": "1.0.0",
+    
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "options": "options.html"
+}
